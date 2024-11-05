@@ -1,16 +1,17 @@
-# flutter_projet
+# Product Tracking and Inventory Management System
 
-A new Flutter project.
+A mobile application built with Flutter and SQLite for efficient and secure management of products, tracking inventory levels, managing product entries and exits, and generating inventory reports. The system provides a user-friendly interface for seamless management of product data.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Product Tracking**: Keep track of products and their details (name, quantity, price, etc.).
+- **Inventory Management**: Manage product entries (stock-in) and exits (stock-out), adjusting quantities as needed.
+- **Inventory Reports**: Generate detailed reports showing current stock levels, entries, and exits over a defined period.
+- **User-Friendly Interface**: An intuitive interface for managing products, updating stock levels, and generating reports.
+- **SQLite Database**: All product and inventory data is securely stored in a local SQLite database.
+- **Search and Filter**: Easily search for products, filter by categories, and view detailed product information.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Cross-platform framework for building the mobile application.
+- **SQLite**: Lightweight database for storing product and inventory data locally on the device.
